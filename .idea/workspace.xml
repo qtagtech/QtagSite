@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0531971-e799-4fac-9c42-4fb6fb95374e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/images/logoQtagNew.png" afterPath="$PROJECT_DIR$/web-app/images/logoQtagNew.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
     </list>
     <ignored path="QtagSite.iws" />
@@ -92,7 +91,7 @@
       <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="31" selection-start="2623" selection-end="2623" vertical-scroll-proportion="0.77858174">
+            <state line="67" column="38" selection-start="2662" selection-end="2662" vertical-scroll-proportion="0.8031838">
               <folding />
             </state>
           </provider>
@@ -631,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="31" selection-start="2623" selection-end="2623" vertical-scroll-proportion="0.77858174">
+        <state line="67" column="38" selection-start="2662" selection-end="2662" vertical-scroll-proportion="0.8031838">
           <folding />
         </state>
       </provider>
@@ -643,7 +642,7 @@
         <entry key="QtagSite">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="210580850" />
+              <option name="buildConfigCrc" value="-254038151" />
               <option name="pluginDependenciesCrc" value="-1218632913" />
               <option name="properties">
                 <map>
