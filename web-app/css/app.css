@@ -1,0 +1,287 @@
+/* === Background Image === */
+
+img.bg {
+	/* Set rules to fill background */
+	min-height: 100%;
+	min-width: 1024px;
+	
+	/* Set up proportionate scaling */
+	width: 100%;
+	height: auto;
+	
+	/* Set up positioning */
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+
+/* === Main section === */
+.main{
+	background: url('../images/lightbg.png') repeat left top;
+	margin: 5% 10%;
+	padding: 10px 5%;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+.main h2{
+	text-align: center;
+}
+
+.main .tagline{
+}
+
+hr{
+	margin: 0; 
+}
+/* === Timer Countdown === */
+#timer{
+	margin-left: 27%;
+}
+.countdown_section{
+	background: url('../images/lightdate.png') no-repeat left top;
+	width: 68px;
+	height: 72px;
+	display: block;
+	float: left;
+	margin: 3px;
+	padding: 5px;
+	font-size: 10px;
+	padding-top: 5px;
+	line-height: 0px;
+	color: #666;
+	text-align: center;
+}
+
+.countdown_amount{
+    font: 42px 'Arial Narrow', Arial, sans-serif;
+    color: #333;
+    letter-spacing:0px;
+    text-align: center;
+}
+
+
+/* === Progress Bar === */
+
+.progressbar{
+		margin: 20px 10%;
+}
+.percentagecomplete{
+	height: 60px;
+	width: 100%;
+	display: block;
+	position: relative;
+	text-align: center;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #555;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#666666), to(#333333));
+	background: -webkit-linear-gradient(#666666,#333, #666666);
+	background: -moz-linear-gradient(#666666,#333, #666666);
+	background: -ms-linear-gradient(#666666,#333, #666666);
+	background: -o-linear-gradient(#666666,#333, #666666);
+	background: linear-gradient(#666666,#333, #666666);
+	-pie-background: linear-gradient(#666666,#333, #666666);
+	behavior: url(/PIE.htc);
+	opacity: 0.7;
+	filter: alpha(opacity=70); 
+}
+
+.percentagecomplete span{
+position: absolute;
+top: 5px;
+right: 20px;
+font: 42px 'Arial Narrow', Arial, sans-serif;
+color: #fff;
+}
+
+#complete{
+	width: 30px;
+	height: 100%;
+	display: block;
+	text-align: center; width: 200px;
+	border: none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border-top-right-radius:0px;
+	border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-topright: 0px;
+	behavior: url(/PIE.htc);
+}
+
+.green{
+	background: #D3FF66;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#D3FF66), to(#0E7A00));
+	background: -webkit-linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+	background: -moz-linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+	background: -ms-linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+	background: -o-linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+	background: linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+	-pie-background: linear-gradient(#D3FF66, #0E7A00,#D3FF66);
+}
+
+.blue{
+	background: #99F5FF;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#99F5FF), to(#338AEE));
+	background: -webkit-linear-gradient(#99F5FF, #338AEE,#99F5FF);
+	background: -moz-linear-gradient(#99F5FF, #338AEE,#99F5FF);
+	background: -ms-linear-gradient(#99F5FF, #338AEE,#99F5FF);
+	background: -o-linear-gradient(#99F5FF, #338AEE,#99F5FF);
+	background: linear-gradient(#99F5FF, #338AEE,#99F5FF);
+	-pie-background: linear-gradient(#99F5FF, #338AEE,#99F5FF);
+}
+
+/* === Messages : Message1 and Message 2 === */
+.message1,.message2{
+	margin: 10px;
+	line-height: 14px;
+}
+
+/* === Signup Form === */
+
+.signupform{
+	margin: 20px 15% 0%;
+}
+.signupform input{
+	    background: none repeat scroll 0 0 #FBFBFB;
+	    border: 1px solid #C3C3C3;
+	    border-radius: 5px 0px 0px 5px;
+	    -webkit-border-radius:5px 0px 0px 5px;
+	    -moz-border-radius:5px 0px 0px 5px;
+	    color: #666666;
+	    display: inline-block;
+	    font-size: 12px;
+	    line-height: 18px;
+	    padding: 10px;
+	    margin: 0 -1px;
+	    width: 70%;
+}
+
+
+.signupform input.blue:focus{
+	border-color: rgba(82,168,236,0.8);
+	box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset,0 0 8px rgba(82,168,236,0.6); 
+	outline: 0 none;
+	margin: 0 -1px;
+}
+
+.signupform input.green:focus{
+	border-color: rgba(105,174,84,0.8);
+	box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset,0 0 8px rgba(105,174,84,0.6); 
+	outline: 0 none;
+	margin: 0 -1px;
+}
+
+
+.signupform input.button{
+    border: none;
+	border-radius: 0px 5px 5px 0px;
+	-webkit-border-radius: 0px 5px 5px 0px;
+	-moz-border-radius: 0px 5px 5px 0px;
+	background: #39d;
+	border: 1px solid #39D;
+	color: #fff;
+	font-size: 12px;
+	padding: 10px;
+	width: 30%;
+	font-weight: bold;
+	line-height: 18px;
+	margin: 0px -4px;
+}
+
+
+/* === Ajax response === */
+
+.response{
+	margin: 5px;
+	font-size: 12px;
+}
+
+
+
+/* === Twitter tweets === */
+.showtwitter{
+	    	margin:20px 5%;
+	    	
+}
+
+#twitter {
+        position:relative;
+    	padding:10px 10px 1px;
+    	color:#fff;
+    	background:#39d; /* default background for browsers without gradient support */
+    	-webkit-border-radius:5px;
+    	-moz-border-radius:5px;
+    	border-radius:5px;
+        background: -moz-linear-gradient(#2E88C4, #075698) repeat scroll 0 0 transparent;
+    position: relative;
+}
+
+.twitter_name{
+float: left;
+}
+
+.showtwitter{
+	    	left: 5%;
+}
+
+
+/* === Footer styling === */
+
+.footer{
+margin: 15px 0;
+	padding:0 0 5px 0;
+}
+
+.copyright{
+	float: left;
+	height: 24px;;
+}
+/* === Social buttons === */
+
+/* == Second style social icons == */
+.rss,.twitter,.facebook{
+	width: 24px;
+	height: 24px;
+	display: block;
+		float: right;
+	text-indent: -9999px;
+	margin: -5px 2px;
+	opacity: 0.8;
+	filter: alpha(opacity=80); 
+}
+.rss{
+	background: url('../images/rss.png') no-repeat left top;
+}
+.facebook{
+	background: url('../images/facebook.png') no-repeat left top;
+}
+.twitter{
+	background: url('../images/twitter.png') no-repeat left top;
+}
+
+.rss:hover,.twitter:hover,.facebook:hover{
+	opacity: 1;
+}
+
+/* -----------------------------------------
+   Generic Styles
+----------------------------------------- */
+.clear{
+	clear: both;
+}
+
+.right{
+	float: right;
+	maring:5px;
+}
+
+.left{
+	float: left;
+}
+

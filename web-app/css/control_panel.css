@@ -1,0 +1,74 @@
+/* Control the Width of the Main holder */
+.main {
+	margin-left: 10%;   /* Control the Width of the Main holder by increasing decrasing margins, keep both margin-left and margin-right same for center alligned container */
+	margin-right: 10%;
+	background: url('../images/lightbg.png') repeat left top; /* Light background:lightbg.png || Dark Background: darkbg.png */
+    background-opacity: 0.2;
+}
+
+.logo{
+	text-indent: -99999px;
+	background: url('../images/logoQtagNew.png') no-repeat left top;
+	height: 150px; 							/* height of the logo image */
+	margin-left: 35%;						/* Use below margin to align logo keep in margin in % */
+	display: block;
+}
+
+hr{
+	border-width: 1px 0 0;
+	border-color: #DDD;  /* colod of diving line and its width */
+	margin: 0;     /* margin around line */
+}
+.tagline{               
+	color: #666;		/* Color and font-size of the tagline below the logo */
+	font-size: 20px;
+	display: block;    /* change to display:none; if you do not want to display any tagline */
+}
+
+#timer{
+	display: block; /* change display:block; to display:none; if you do not wna to display countdown */
+}
+
+.countdown_section{
+	background: url('../images/darkdate.png') no-repeat left top; /* change lightdate.png to darkdate.png for dark theme */
+}
+	
+.countdown_amount{
+		color: #efefef;  /* Color of the countdown numbers */
+}
+
+.message1{
+	display: block; /* change display:block; to display:none; if you do not want to display message 1 */
+}
+
+.progressbar{
+	display: block; /* change display:block; to display:none; if you do not want to display message 1 */
+}
+
+.message2{
+	display: block; /* change display:block; to display:none; if you do not want to display message 2*/
+}
+
+.signupform{
+	display: block; /* change display:block; to display:none; if you do not want to display email signup form*/
+}
+
+.showtwitter{
+	display: block; /* change display:block; to display:none; if you do not want to display latest tweets*/
+}
+
+#twitter,.signupform input.button{
+		background: #69AE54;        /* The signup button color and twitter latest tweets background and text color */
+		color: #fff;
+		border: 1px solid #69AE54;
+}
+
+/* Social buttons */
+.rss,.twitter,.facebook{
+	display: block; /* change display:block; to display:none; if you do not want to display email signup form*/
+}
+
+.copyright{         /* Copyright message color and font-size */
+	font-size:10px;
+	color: #666;
+}

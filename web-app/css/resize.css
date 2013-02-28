@@ -1,0 +1,52 @@
+/* -----------------------------------------
+   Extra Resizing features
+----------------------------------------- */
+
+@media screen and (max-width: 800px) {
+.main{
+  	margin: 10%;
+  	}
+#timer{
+	margin-left: 20%;
+}
+}
+
+
+@media screen and (max-width: 640px) {
+
+.main{
+  	margin: 5%;
+  	}
+
+#timer{
+	margin-left: 10%;
+}
+}
+@media screen and (max-width: 480px) {
+  
+  .main{
+  	margin: 2%;
+  	}
+
+.logo{                 
+	margin: 0 20%;
+	padding: 2%;
+}
+
+#timer{
+	margin-left: 5%;
+}
+
+.copyright{
+	font-size: 8px;
+}
+}
+
+@media screen and (max-width: 320px) {
+
+#timer{
+	margin-left: 0%;
+}
+
+}
+
