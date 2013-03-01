@@ -30,7 +30,7 @@
 
 <body>
 <!-- Background image -->
-<img src="${resource(dir: 'images',file: 'Background5.jpg')}" class="bg" alt="">
+<img src="${resource(dir: 'images',file: 'desenfocado.jpg')}" class="bg" alt="">
 <!-- End Background image -->
 
 <!-- Wrapper for whole content -->
