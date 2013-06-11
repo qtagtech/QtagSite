@@ -64,7 +64,7 @@
         <nav class="center-relative">
             <ul>
 
-                <li class="active"><a href="#dry-home">INCIO</a></li>
+                <li class="active"><a href="#dry-home">INICIO</a></li>
                 <li><a href="#services">¿QUÉ HACEMOS?</a></li>
                 <li><a href="#featured_work">EXPERIENCIA</a></li>
                 <li><a href="#blog">LAB5</a></li>
