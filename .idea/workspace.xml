@@ -2,215 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0531971-e799-4fac-9c42-4fb6fb95374e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/about_image_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/about_image_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/about_image_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/ajax-document-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/team/ana.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/background-home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/bg_control_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/blog-slider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/team/cata.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/dribbble_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/dribbble_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/facebook_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/facebook_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/flickr_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/gearedslab-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/gearedslab-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/gearedslab-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/team/juanda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/team/julian.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/linkedin_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/linkedin_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/mail_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/navigation_arrows_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/navigation_arrows_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/team/pablo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/pinterest_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/pinterest_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_large_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/portfolio/portfolio_small_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/pricing-slider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/read_more_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separador1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separador2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separador3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_about_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_about_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_about_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_about_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blank_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blank_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blog_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blog_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blog_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_blog_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_contact_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_contact_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_contact_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_contact_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_featured_work_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_featured_work_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_featured_work_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_featured_work_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_portfolio_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_portfolio_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_portfolio_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_portfolio_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_pricing_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_pricing_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_pricing_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_pricing_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_skills_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_skills_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_skills_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_skills_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_twitter_200x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_twitter_400x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_twitter_800x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_twitter_960x50px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/separators/separator_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/service-slider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/services_icon_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/services_icon_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/services_icon_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_roman-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_roman-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_roman-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/tommaso-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/tommaso-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/tommaso-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/twitter_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/twitter_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_large_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_large_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_large_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_large_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_large_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_small_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_small_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_small_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_small_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/images/work/work_small_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/carouFredSel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/clear.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/columns.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/columns_with_border.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/gearedslab-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/info/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.carouFredSel-6.2.0-packed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.dryMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.myHint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.tweets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/jquery.vticker-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/layouts/mainsite.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/portfolio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/respond.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/js/small-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/swiss_721_cnbt_roman-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/mainsite/css/tommaso-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QtagSite-grailsPlugins.iml" afterPath="$PROJECT_DIR$/QtagSite-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QtagSite.iml" afterPath="$PROJECT_DIR$/QtagSite.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/info/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/info/index.gsp" />
     </list>
     <ignored path="QtagSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
     <file path="/Dummy.txt" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370962365692" ignored="false" />
     <file path="/UrlMappings.groovy" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370374920876" ignored="false" />
-    <file path="/index.gsp" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370963386067" ignored="false" />
+    <file path="/index.gsp" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370964846429" ignored="false" />
     <file path="/style.css" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370556761466" ignored="false" />
     <file path="/colors.css" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370535409345" ignored="false" />
     <file path="/mainsite.gsp" changelist="b0531971-e799-4fac-9c42-4fb6fb95374e" time="1370621962081" ignored="false" />
@@ -281,7 +80,7 @@
       <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/info/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="391" column="67" selection-start="25339" selection-end="25339" vertical-scroll-proportion="0.6533019">
+            <state line="12" column="37" selection-start="334" selection-end="334" vertical-scroll-proportion="0.4811321">
               <folding />
             </state>
           </provider>
@@ -618,7 +417,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -642,7 +441,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24935567" sideWeight="0.8547486" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22175732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22175732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -843,7 +642,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/info/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="391" column="67" selection-start="25339" selection-end="25339" vertical-scroll-proportion="0.6533019">
+        <state line="12" column="37" selection-start="334" selection-end="334" vertical-scroll-proportion="0.4811321">
           <folding />
         </state>
       </provider>

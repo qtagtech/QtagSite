@@ -10,7 +10,7 @@
 <html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta name="layout" content="mainsite"/>
-  <title></title>
+  <title>Qtag FUNctional Technologies</title>
 </head>
 <body>
 <!--Home-->
@@ -340,12 +340,12 @@
         </p>
         <div class="separator blog_separator"></div>
         <section class="bottom-10 one_half_with_border text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}">${articles[0]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}" target="_blank">${articles[0]?.title}</a></p>
             <p class="blog-date-holder bottom-20">${articles[0]?.date} / ${articles[0]?.category} / ${articles[0]?.author}</p>
             <p>
                 ${articles[0]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}" target="_blank">LEER MÁS</a>
         </section>
         <section class="bottom-10 one_half_with_border last border-left text-left">
             <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}">${articles[1]?.title}</a></p>
@@ -353,16 +353,16 @@
             <p>
                 ${articles[1]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}"target="_blank">LEER MÁS</a>
         </section>
         <div class="clear separator blank_separator"></div>
         <section class="bottom-10 one_half_with_border text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}">${articles[2]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}"target="_blank">${articles[2]?.title}</a></p>
             <p class="blog-date-holder bottom-20">${articles[2]?.date} / ${articles[2]?.category} / ${articles[2]?.author}</p>
             <p>
                 ${articles[2]?.intro}...
             </p>
-                <a class="button black" href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}">LEER MÁS</a>
+                <a class="button black" href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}" target="_blank">LEER MÁS</a>
         </section>
         <section class="one_half_with_border last border-left text-left">
             <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}">${articles[3]?.title}</a></p>
@@ -370,7 +370,7 @@
             <p>
                 ${articles[3]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}"target="_blank">LEER MÁS</a>
         </section>
         <div class="clear"></div>
     </div>
