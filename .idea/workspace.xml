@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0531971-e799-4fac-9c42-4fb6fb95374e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/mainsite.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/mainsite.gsp" />
-    </list>
+    <list default="true" id="b0531971-e799-4fac-9c42-4fb6fb95374e" name="Default" comment="" />
     <ignored path="QtagSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
