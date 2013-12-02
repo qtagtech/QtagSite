@@ -1,0 +1,17 @@
+---
+applications:
+  .:
+    name: qtag
+    framework:
+      name: grails
+      info:
+        mem: 512M
+        description: Java SpringSource Grails Application
+        exec: 
+    infra: aws
+    url: ${name}.${target-base}
+    mem: 256M
+    instances: 1
+    services:
+      postgresql-38e55:
+        type: postgresql
