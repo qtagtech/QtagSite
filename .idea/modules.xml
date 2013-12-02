@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QtagSite.iml" filepath="$PROJECT_DIR$/QtagSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QtagSite-grailsPlugins.iml" filepath="$PROJECT_DIR$/QtagSite-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
