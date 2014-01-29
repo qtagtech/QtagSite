@@ -10,26 +10,37 @@
 <html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta name="layout" content="mainsite"/>
-  <title>Qtag FUNctional Technologies</title>
+    <title>Qtag FUNctional Technologies</title>
 </head>
+
 <body>
 <!--Home-->
 <div id="dry-home" class="home section background-fixed slider_holder">
-    <div class="logo"><img src="${resource(dir: 'mainsite/images',file: 'logo.png')}" alt="Dry" /></div>
+    <div class="logo"><img src="${resource(dir: 'mainsite/images', file: 'logo.png')}" alt="Dry"/></div>
+
     <div class="block content-960 center-relative">
         <div class="home-title-holder top-58">
             <p><span class="home-title">NOSOTROS</span></p>
+
             <p><span class="home-title smaller">LO DESARROLLAMOS</span></p>
-            <img class="separator_x flecha" src="${resource(dir: 'mainsite/images/separators',file: 'flecha.png')}" alt="____" />
-            <p><span class="home-title smaller" >WE <span style="color: #ffffff;">DEVELOP</span> IT</span></p>
+            <img class="separator_x flecha" src="${resource(dir: 'mainsite/images/separators', file: 'flecha.png')}"
+                 alt="____"/>
+
+            <p><span class="home-title smaller">WE <span style="color: #ffffff;">DEVELOP</span> IT</span></p>
         </div>
+
         <div class="title-description">
             <p>Creamos tecnologías fáciles, divertidas y funcionales, basados en la recolección de datos</p>
+
             <p>
-            y análisis de información.</p>
-            <p style="font-family: 'swis721_cn_btitalic'; margin-top: 20px; color: #b2b3b3;">We create easy, fun and functional technologies, based on the data collection</p><p style="font-family: 'swis721_cn_btitalic'; color: #b2b3b3;">
-            and analysis of information. </p>
+                y análisis de información.</p>
+
+            <p style="font-family: 'swis721_cn_btitalic'; margin-top: 20px; color: #b2b3b3;">We create easy, fun and functional technologies, based on the data collection</p>
+
+            <p style="font-family: 'swis721_cn_btitalic'; color: #b2b3b3;">
+                and analysis of information.</p>
         </div>
+
         <div class="title-button-holder center-text">
             <a href="#contact" class="button-border big white slow-scroll">¡CONÓCENOS!</a>
         </div>
@@ -38,57 +49,72 @@
 <!--Services-->
 <div id="services" class="clear services section center-text block">
     <h2>¿QUÉ HACEMOS?</h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
+    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
+
     <div class="block content-960 center-relative">
         <p class="info spanish">
             Imaginamos, programamos y desarrollamos soluciones en software basados en la matriz AHIS (analysis & hosting information system) con la cual, por medio de 5 pasos
-            <br><span class="enfasis">[ 1. Capturar, 2. Almacenar, 3. Procesar, 4. Presentar, 5. Socializar]</span><br></r> obtenemos clientes felices y compañías exitosas.
+            <br><span
+                class="enfasis">[ 1. Capturar, 2. Almacenar, 3. Procesar, 4. Presentar, 5. Socializar]</span><br></r> obtenemos clientes felices y compañías exitosas.
         </p>
+
         <div class="title-button-holder center-text" style="margin-bottom: 50px;">
             <a href="#" class="button-border red slow-scroll reveal-btn" id="english1_btn">English</a>
         </div>
+
         <p class="info english english-light" id="english1">
-            We imagine, program and develop software solutions based on the AHIS Matrix (Analysis and Hosting Information System) which by following 5 steps <br />
+            We imagine, program and develop software solutions based on the AHIS Matrix (Analysis and Hosting Information System) which by following 5 steps <br/>
             <span class="enfasis">[ 1. Capture, 2. Storage, 3. Process, 4. Presents, 5. Socialize ]</span><br>gives as a result happy customers and successful companie
         </p>
         <section class="one_third">
-            <img class="block center-relative" src="${resource(dir: 'mainsite/images',file: 'app5.png')}" alt="" />
-            <h4><span class="spanish">Presencia de marca <br>en el bolsillo de tus usuarios. </span><span class="english">Be present<br> on your customer's daily life by staying in their pocket</span></h4>
+            <img class="block center-relative" src="${resource(dir: 'mainsite/images', file: 'app5.png')}" alt=""/>
+            <h4><span class="spanish">Presencia de marca <br>en el bolsillo de tus usuarios.</span><span
+                    class="english">Be present<br> on your customer's daily life by staying in their pocket</span></h4>
+
             <p>
-               <span class="spanish">Desarrollamos Aplicaciones Móviles que marcan la diferencia en su diseño, funcionamiento, y resultados.
-               </span><span class="english">We develop mobile apps that make the difference on its design, functionality and results.</span>
+                <span class="spanish">Desarrollamos Aplicaciones Móviles que marcan la diferencia en su diseño, funcionamiento, y resultados.
+                </span><span
+                    class="english">We develop mobile apps that make the difference on its design, functionality and results.</span>
             </p>
             <ul class="read-more service-read-more">
-                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span></a></li>
+                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span>
+                </a></li>
             </ul>
         </section>
         <section class="one_third">
-            <img class="block center-relative" src="${resource(dir: 'mainsite/images',file: 'web5.png')}" alt="" />
+            <img class="block center-relative" src="${resource(dir: 'mainsite/images', file: 'web5.png')}" alt=""/>
             <h4><span class="spanish">Sitios funcionales,<br> fáciles y con resultados.</span>
                 <span class="english">Functional,<br> intuitive and effective websites.</span>
             </h4>
+
             <p>
                 <span class="spanish">Creamos webs que se ajustan a tus necesidades, ubicados dónde y cómo deben estar.</span>
-                    <span class="english"> We create websites fitting your needs, positioning them where and how they should be.</span>
+                <span class="english">We create websites fitting your needs, positioning them where and how they should be.</span>
             </p>
             <ul class="read-more service-read-more">
-                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span></a></li>
+                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span>
+                </a></li>
             </ul>
         </section>
         <section class="one_third last">
-            <img class="block center-relative" src="${resource(dir: 'mainsite/images',file: 'nest.png')}" alt="" />
-            <h4><span class="spanish">Estrategias de fidelización<br> por medio de la emoción</span><span class="english">Loyalty<br> strategies through emotions.</span></h4>
+            <img class="block center-relative" src="${resource(dir: 'mainsite/images', file: 'nest.png')}" alt=""/>
+            <h4><span class="spanish">Estrategias de fidelización<br> por medio de la emoción</span><span
+                    class="english">Loyalty<br> strategies through emotions.</span></h4>
+
             <p>
                 <span class="spanish">Ideamos una plataforma web con aplicación para smartphones que enamora clientes y compañías, basándose en las interacciones entre ambos como sellos en una tarjeta virtual y mensajes directos analizados.</span>
                 <span class="english">Nest5 is a web platform with a mobile App which to create a romance between customers and brands based on interactions with a virtual stamp card and direct messages.</span>
             </p>
             <ul class="read-more service-read-more">
-                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span></a></li>
+                <li><a href="single.html"><span class="spanish">Leer Más</span><span class="english">Read More</span>
+                </a></li>
             </ul>
         </section>
         <!--clear section-->
         <div class="clear"></div>
+
         <div class="separator twitter_separator top-80"></div>
+
         <div class="tweets">
             <ul class="tweets-content crete-round-font">
                 <!--do not remove this section-->
@@ -97,6 +123,7 @@
         </div>
         <a class="button black" href="#">Síguenos en Twitter</a>
     </div>
+
     <div class="full-width top-80">
         %{--<div class="book-left left">
             <div class="right-35 top-50 book-title crete-round-font right">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</div>
@@ -130,18 +157,22 @@
                         <p class="quote-author top-30">Forbes - 2011</p>
                     </li>
                 </ul>
+
                 <div id="service_text_slide_pager" class="carousel_pagination left"></div>
             </div>
         </div>
+
         <div class="clear"></div>
     </div>
+
     <div class="clear"></div>
 </div>
 
 <!--Featured work-->
 <div id="featured_work" class="clear featured_work section center-text block">
     <h2><span class="spanish">NUESTRA EXPERIENCIA</span><span class="english">OUR EXPERIENCE</span></h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
+    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
+
     <div class="block content-960 center-relative">
         <p class="info">
             <span class="spanish">Esta es una muestra de lo que hemos hecho. Páginas web y aplicaciones móviles fáciles, divertidas y funcionales.</span>
@@ -169,58 +200,79 @@
         <!--clear section-->
         <div class="clear"></div>
     </div>
+
     <div class="full-width top-75">
         <div class="clear"></div>
+
         <div class="featured_work_image_slider_holder list_carousel slider_holder">
             <ul id="featured_work_image_slider" class="gallery">
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work1.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work1.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work1.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work1.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">Lab5 By Nest5</span>
 
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work2.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work2.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work2.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work2.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">App Móvil Nest5</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work3.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work3.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work3.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work3.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">Pronalce S.A.</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work4.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work4.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work4.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work4.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">Entrega Felicidad - Coordinadora S.A.</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work5.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work5.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work5.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work5.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">GOLTOTAL.com</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work6.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work6.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work6.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work6.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">Atmopel S.A.</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work7.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work7.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work7.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work7.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">Nuestra Luna de Miel Soñada</span>
                 </li>
                 <li>
-                    <a class="preview" href="${resource(dir: 'mainsite/images/work',file: 'work8.jpg')}" data-rel="prettyPhoto[gallery1]"><img src="${resource(dir: 'mainsite/images/work',file: 'work8.jpg')}" alt="" /></a>
+                    <a class="preview" href="${resource(dir: 'mainsite/images/work', file: 'work8.jpg')}"
+                       data-rel="prettyPhoto[gallery1]"><img
+                            src="${resource(dir: 'mainsite/images/work', file: 'work8.jpg')}" alt=""/></a>
                     <span class="shadow"></span>
                     <span class="featured_work_item_text">HookThemApp.com</span>
                 </li>
 
             </ul>
+
             <div class="clear"></div>
             <a id="featured_work_prev" class="prev" href="#"></a>
             <a id="featured_work_next" class="next" href="#"></a>
+
             <div id="featured_work_slide_pager" class="carousel_pagination left"></div>
         </div>
+
         <div class="clear"></div>
     </div>
 </div>
@@ -332,48 +384,73 @@
 <!--Blog-->
 <div id="blog" class="clear blog section center-text block">
     <h2>BLOG - LAB5</h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
+    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
+
     <div class="block content-960 center-relative center-text">
         <p class="info">
             <span class="spanish">Lab5 es un proyecto adjunto a Nest5 de Qtag Technologies en que el equipo busca crear un espacio basado en una publicación digital que ayude tanto a personas que tienen que ver algo con el negocio de Nest5, como empresas y usuarios de la plataforma de fidelización, como a emprendedores y personas del común con consejos, artículos de emprendimiento y noticias que sirvan para ir un poco más allá.</span>
-            <span class="spanish">Lab5 is a publication targeted for anyone who has anything to do with Nest5 by Qtag Technologies. Aiming to provide information about entrepreneurship, Marketing for companies and technolgoy for those who need to go further and learn constantly. </span>
+            <span class="spanish">Lab5 is a publication targeted for anyone who has anything to do with Nest5 by Qtag Technologies. Aiming to provide information about entrepreneurship, Marketing for companies and technolgoy for those who need to go further and learn constantly.</span>
         </p>
+
         <div class="separator blog_separator"></div>
         <section class="bottom-10 one_half_with_border text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}" target="_blank">${articles[0]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a
+                    href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}"
+                    target="_blank">${articles[0]?.title}</a></p>
+
             <p class="blog-date-holder bottom-20">${articles[0]?.date} / ${articles[0]?.category} / ${articles[0]?.author}</p>
+
             <p>
                 ${articles[0]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}" target="_blank">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[0]?.id}/${articles[0]?.address}"
+               target="_blank">LEER MÁS</a>
         </section>
         <section class="bottom-10 one_half_with_border last border-left text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}">${articles[1]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a
+                    href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}">${articles[1]?.title}</a>
+            </p>
+
             <p class="blog-date-holder bottom-20">${articles[1]?.date} / ${articles[1]?.category} / ${articles[1]?.author}</p>
+
             <p>
                 ${articles[1]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}"target="_blank">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[1]?.id}/${articles[1]?.address}"
+               target="_blank">LEER MÁS</a>
         </section>
+
         <div class="clear separator blank_separator"></div>
         <section class="bottom-10 one_half_with_border text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}"target="_blank">${articles[2]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a
+                    href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}"
+                    target="_blank">${articles[2]?.title}</a></p>
+
             <p class="blog-date-holder bottom-20">${articles[2]?.date} / ${articles[2]?.category} / ${articles[2]?.author}</p>
+
             <p>
                 ${articles[2]?.intro}...
             </p>
-                <a class="button black" href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}" target="_blank">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[2]?.id}/${articles[2]?.address}"
+               target="_blank">LEER MÁS</a>
         </section>
         <section class="one_half_with_border last border-left text-left">
-            <p class="blog-section-title crete-round-font bottom-10"><a href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}">${articles[3]?.title}</a></p>
+            <p class="blog-section-title crete-round-font bottom-10"><a
+                    href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}">${articles[3]?.title}</a>
+            </p>
+
             <p class="blog-date-holder bottom-20">${articles[3]?.date} / ${articles[3]?.category} / ${articles[3]?.author}</p>
+
             <p>
                 ${articles[3]?.intro}...
             </p>
-            <a class="button black" href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}"target="_blank">LEER MÁS</a>
+            <a class="button black" href="http://www.nest5.org/post/details/${articles[3]?.id}/${articles[3]?.address}"
+               target="_blank">LEER MÁS</a>
         </section>
+
         <div class="clear"></div>
     </div>
+
     <div class="full-width top-50">
         <div class="blog_slider_background slider_background background-fixed left">
             <div class="blog_slider_holder slider_holder">
@@ -391,169 +468,274 @@
                         <p class="quote-author top-30">Linus Torvalds</p>
                     </li>
                 </ul>
+
                 <div id="blog_text_slide_pager" class="carousel_pagination left"></div>
             </div>
         </div>
+
         <div class="clear"></div>
     </div>
+
     <div class="clear"></div>
 </div>
 
 <!--About-->
 <div id="about" class="clear about section center-text block">
-    <h2><span class="spanish">NUESTRO EQUIPO</span><span class="english">OUR TEAM</span> </h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
-    <div class="block content-960 center-relative center-text">
-        <p class="info">
-            <span class="spanish">Contamos con un grupo de profesionales que ama lo que hace y está convencido de que es indispensable contar con una presencia online para tener una mejor imagen y posicionamiento.</span>
-            <span class="english">Qtag is a group of professionals who love what they do and are convinced that online presence is a requisite to have  great image and positioning.</span>
-        </p>
-        <div class="separator about_separator"></div>
-        <section class="two_third_with_border text-right">
-            <p class="about-section-title crete-round-font bottom-20">
-                <span class="spanish">Siempre en coordinación, en el equipo multidisciplinario de Qtag, conformado por ingenieros, publicistas y administradores;</span>
-                <span class="english">Always coordinated, Qtag’s multidisciplinary team, consisting of engineers, marketers and managers,</span></p>
-            <p class="bottom-20">
-                <span class="spanish">nos encargamos de brindar, desde cada perspectiva individual y área de conocimiento, lo mejor de nosotros para tener como resultado, soluciones efectivas, fáciles y funcionales.</span>
-                <span class="english">take care to provide from each individual perspective and expertise area, their best in order to achieve the most easy, functional and effective solutions.
-                </span>
-            </p>
+<h2><span class="spanish">NUESTRO EQUIPO</span><span class="english">OUR TEAM</span></h2>
+<img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
 
-        </section>
-        <section class="one_third_with_border last border-left text-left">
-            <ul class="read-more about-read-more">
-                <li>Innovation</li>
-                <li>Digital Marketing</li>
-                <li>Brandin & Logo</li>
-                <li>Web Design</li>
-                <li>Graphic Desing</li>
-                <li>App Development</li>
-                <li>Email Marketing</li>
+<div class="block content-960 center-relative center-text">
+<p class="info">
+    <span class="spanish">Contamos con un grupo de profesionales que ama lo que hace y está convencido de que es indispensable contar con una presencia online para tener una mejor imagen y posicionamiento.</span>
+    <span class="english">Qtag is a group of professionals who love what they do and are convinced that online presence is a requisite to have  great image and positioning.</span>
+</p>
 
-            </ul>
-        </section>
-        <div class="clear"></div>
+<div class="separator about_separator"></div>
+<section class="two_third_with_border text-right">
+    <p class="about-section-title crete-round-font bottom-20">
+        <span class="spanish">Siempre en coordinación, en el equipo multidisciplinario de Qtag, conformado por ingenieros, publicistas y administradores;</span>
+        <span class="english">Always coordinated, Qtag’s multidisciplinary team, consisting of engineers, marketers and managers,</span>
+    </p>
 
-        <div class="one_third top-70">
-            <div class="team-item-holder">
-                <div class="team border-200">
-                    <div class="white-border relative border-200">
-                        <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team',file: 'julian.jpg')}" alt="" />
-                        <span class="shadow border-200"></span>
-                    </div>
-                </div>
-                <h4>JULIÁN ECHEVERRI R.</h4>
-                <div class="team-position"><span class="spanish">MERCADEO / DISEÑADOR</span><span class="english">CMO / DESIGNER</span> </div>
-                <div class="team-social">
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'facebook_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'flickr_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'pinterest_icon.png')}" alt="" /></a>
-                </div>
-                <div class="team-content top-50">
-                    <span class="spanish">Publicista apasionado por el mercadeo, las marcas, la tecnología y el fútbol, con más de 6 años de experiencia en agencias de publicidad, y casi el mismo tiempo en emprendimientos digitales. Fue co-fundador de GolTotal.com y ha colaborado en el diseño y desarrollo de algunas Apps y sitios web para diferentes empresas.</span><span class="english"></span>
-                </div>
+    <p class="bottom-20">
+        <span class="spanish">nos encargamos de brindar, desde cada perspectiva individual y área de conocimiento, lo mejor de nosotros para tener como resultado, soluciones efectivas, fáciles y funcionales.</span>
+        <span class="english">take care to provide from each individual perspective and expertise area, their best in order to achieve the most easy, functional and effective solutions.
+        </span>
+    </p>
+
+</section>
+<section class="one_third_with_border last border-left text-left">
+    <ul class="read-more about-read-more">
+        <li>Innovation</li>
+        <li>Digital Marketing</li>
+        <li>Brandin & Logo</li>
+        <li>Web Design</li>
+        <li>Graphic Desing</li>
+        <li>App Development</li>
+        <li>Email Marketing</li>
+
+    </ul>
+</section>
+
+<div class="clear"></div>
+
+<div class="one_third top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200"
+                     src="${resource(dir: 'mainsite/images/team', file: 'julian.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
             </div>
         </div>
-        <div class="one_third top-70">
-            <div class="team-item-holder">
-                <div class="team border-200">
-                    <div class="white-border relative border-200">
-                        <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team',file: 'juanda.jpg')}" alt="" />
-                        <span class="shadow border-200"></span>
-                    </div>
-                </div>
-                <h4>JUAN DAVID ARROYAVE H.</h4>
-                <div class="team-position"> <span class="spanish">CEO / COFUNDADOR / PROGRAMADOR</span><span class="english">CEO / CO-FOUNDER / PROGRAMMER</span></div>
-                <div class="team-social">
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'dribbble_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'linkedin_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'mail_icon.png')}" alt="" /></a>
-                </div>
-                <div class="team-content top-50">
-                    <span class="spanish">Emprendedor durante los últimos 13 años. A los 15 años tuvo un éxito inesperado con Multitodo.com en el boom del Internet. A Co-fundado proyectos como Goltotal.com, desarrollado Apps para empresas desde restaurantes hasta grandes compañías y además, es Ingeniero de Telecomunicaciones de la UdeM.</span><span class="english"></span>
-                </div>
-            </div>
+        <h4>JULIÁN ECHEVERRI R.</h4>
+
+        <div class="team-position"><span class="spanish">MERCADEO / DISEÑADOR</span><span
+                class="english">CMO / DESIGNER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'facebook_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'flickr_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'pinterest_icon.png')}" alt=""/></a>
         </div>
-        <div class="one_third last top-70">
-            <div class="team-item-holder">
-                <div class="team border-200">
-                    <div class="white-border relative border-200">
-                        <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team',file: 'pablo.jpg')}" alt="" />
-                        <span class="shadow border-200"></span>
-                    </div>
-                </div>
-                <h4>PABLO ADRÉS QUIROGA B.</h4>
-                <div class="team-position"><span class="spanish">SOPORTE / PROGRAMMER</span><span class="english">COO / PROGRAMMER</span></div>
-                <div class="team-social">
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'twitter_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'flickr_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'pinterest_icon.png')}" alt="" /></a>
-                </div>
-                <div class="team-content top-50">
-                    <span class="spanish">Apasionado por la tecnología y las ideas inspiradoras, constante buscador de oportunidades de inversión desde los 16 años. Actualmente emprendedor y desarrollador en Nest5, #Geek, #Emprendedor, #InspiringIdeas, en resumen WYSIWYG</span><span class="english"></span>
-                </div>
-            </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Publicista apasionado por el mercadeo, las marcas, la tecnología y el fútbol, con más de 6 años de experiencia en agencias de publicidad, y casi el mismo tiempo en emprendimientos digitales. Fue co-fundador de GolTotal.com y ha colaborado en el diseño y desarrollo de algunas Apps y sitios web para diferentes empresas.</span><span
+                class="english"></span>
         </div>
-        <div class="one_third top-70">
-            <div class="team-item-holder">
-                <div class="team border-200">
-                    <div class="white-border relative border-200">
-                        <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team',file: 'cata.jpg')}" alt="" />
-                        <span class="shadow border-200"></span>
-                    </div>
-                </div>
-                <h4>CATALINA MORENO A.</h4>
-                <div class="team-position"><span class="spanish">MANAGER B2B</span><span class="english">B2B MANAGER</span></div>
-                <div class="team-social">
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'dribbble_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'linkedin_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'mail_icon.png')}" alt="" /></a>
-                </div>
-                <div class="team-content top-50">
-                    <span class="spanish">Negociadora internacional, apasionada por el mercadeo, las nuevas tendencias, culturas, los idiomas, la música y el comportamiento del consumidor (no en ese orden). Ha desempeñado siempre cargos de mercadeo en los que ha implementado medidas que se conservan en la actualidad. Fue parte fundamental del equipo que realizó la “Experiencia Nest5” y continúa siendo el principal vínculo entre las marcas y la APLICACIÓN.</span><span class="english"></span>
-                </div>
-            </div>
-        </div>
-        <div class="one_third top-70">
-            <div class="team-item-holder">
-                <div class="team border-200">
-                    <div class="white-border relative border-200">
-                        <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team',file: 'ana.jpg')}" alt="" />
-                        <span class="shadow border-200"></span>
-                    </div>
-                </div>
-                <h4>ANA ISABEL ESCOBAR H.</h4>
-                <div class="team-position"> <span class="spanish">MANAGER B2C / COMMUNITY MANAGER</span><span class="english">MANAGER B2C / COMMUNITY MANAGER</span></div>
-                <div class="team-social">
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'dribbble_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'linkedin_icon.png')}" alt="" /></a>
-                    <a href="#"><img src="${resource(dir: 'mainsite/images',file: 'mail_icon.png')}" alt="" /></a>
-                </div>
-                <div class="team-content top-50">
-                    <span class="spanish">Publicista integral, creativa y versátil, enamorada del marketing sensorial y el neuiromarketing, preparada trabajar en estrategias publicitarias y planeación , hábil para realizar proyectos puntuales, organizar eventos y manejar clientes, le gusta la comunicación clara y efectiva, además es emprendedora y una apasionada por la lectura, la historia, la cocina, las manualidades y la pintura.</span><span class="english"></span>
-                </div>
-            </div>
-        </div>
-        <div class="clear"></div>
     </div>
-    %{--<div class="full-width top-50">
-        <div class="book-left left">
-            <div class="right-35 top-50 book-title crete-round-font right">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</div>
-            <div class="right-35 top-20 book-content bottom-50 right clear-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam ut libero et libero sagittis interdum et vitae tellus.
-            Nunc dapibus luctus turpis non molestie. Vivamus suscipit
-            tortor vitae magna viverra feugiat. Duis vitae libero.</div>
+</div>
+
+<div class="one_third top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200"
+                     src="${resource(dir: 'mainsite/images/team', file: 'juanda.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
         </div>
-        <div class="book-right left">
-            <div class="left-35 top-50 book-title crete-round-font left">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</div>
-            <div class="left-35 top-20 book-content bottom-50 left clear-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam ut libero et libero sagittis interdum et vitae tellus.
-            Nunc dapibus luctus turpis non molestie. Vivamus suscipit
-            tortor vitae magna viverra feugiat. Duis vitae libero.</div>
+        <h4>JUAN DAVID ARROYAVE H.</h4>
+
+        <div class="team-position"><span class="spanish">CEO / COFUNDADOR / PROGRAMADOR</span><span
+                class="english">CEO / CO-FOUNDER / PROGRAMMER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'dribbble_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'linkedin_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'mail_icon.png')}" alt=""/></a>
         </div>
-        <div class="clear"></div>
-    </div>--}%
+
+        <div class="team-content top-50">
+            <span class="spanish">Emprendedor durante los últimos 13 años. A los 15 años tuvo un éxito inesperado con Multitodo.com en el boom del Internet. A Co-fundado proyectos como Goltotal.com, desarrollado Apps para empresas desde restaurantes hasta grandes compañías y además, es Ingeniero de Telecomunicaciones de la UdeM.</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third last top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team', file: 'sebastian.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
+        </div>
+        <h4>SEBASTIÁN MUÑOZ M.</h4>
+
+        <div class="team-position"><span class="spanish">UI/UX DESIGNER</span><span
+                class="english">UI/UX DESIGNER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'twitter_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'flickr_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'pinterest_icon.png')}" alt=""/></a>
+        </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Creativo gráfico especializado en experiencias de usuario e interfaces gráficas. Geek fanático de la tecnología, gadgets y  Durante su carrera se ha formado en las áreas del mercadeo visual y digital.</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team', file: 'sara.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
+        </div>
+        <h4>SARA MONSALVE G.</h4>
+
+        <div class="team-position"><span class="spanish">MANAGER B2B</span><span class="english">B2B MANAGER</span>
+        </div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'dribbble_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'linkedin_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'mail_icon.png')}" alt=""/></a>
+        </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Negociadora internacional, apasionada por el mercadeo, las nuevas tendencias, culturas, los idiomas, la música y el comportamiento del consumidor (no en ese orden). Ha desempeñado siempre cargos de mercadeo en los que ha implementado medidas que se conservan en la actualidad. Fue parte fundamental del equipo que realizó la “Experiencia Nest5” y continúa siendo el principal vínculo entre las marcas y la APLICACIÓN.</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team', file: 'ana.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
+        </div>
+        <h4>ANA ISABEL ESCOBAR H.</h4>
+
+        <div class="team-position"><span class="spanish">MANAGER B2C / COMMUNITY MANAGER</span><span
+                class="english">MANAGER B2C / COMMUNITY MANAGER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'dribbble_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'linkedin_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'mail_icon.png')}" alt=""/></a>
+        </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Publicista integral, creativa y versátil, enamorada del marketing sensorial y el neuiromarketing, preparada trabajar en estrategias publicitarias y planeación , hábil para realizar proyectos puntuales, organizar eventos y manejar clientes, le gusta la comunicación clara y efectiva, además es emprendedora y una apasionada por la lectura, la historia, la cocina, las manualidades y la pintura.</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third last top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200" src="${resource(dir: 'mainsite/images/team', file: 'empty.jpg')}"
+                     alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
+        </div>
+        <h4>OSCAR ROBAYO</h4>
+
+        <div class="team-position"><span class="spanish">DESARROLLADOR iOS</span><span
+                class="english">iOS DEVELOPER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'twitter_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'flickr_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'pinterest_icon.png')}" alt=""/></a>
+        </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Apasionado por la tecnología y las ideas inspiradoras, constante buscador de oportunidades de inversión desde los 16 años. Actualmente emprendedor y desarrollador en Nest5, #Geek, #Emprendedor, #InspiringIdeas, en resumen WYSIWYG</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third top-70">
+    <div class="team-item-holder">
+        <div class="team border-200">
+            <div class="white-border relative border-200">
+                <img class="team-image border-200"
+                     src="${resource(dir: 'mainsite/images/team', file: 'empty.jpg')}" alt=""/>
+                <span class="shadow border-200"></span>
+            </div>
+        </div>
+        <h4>CAMILO MAZO</h4>
+
+        <div class="team-position"><span class="spanish">DESARROLLADOR iOS</span><span
+                class="english">iOS DEVELOPER</span></div>
+
+        <div class="team-social">
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'facebook_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'flickr_icon.png')}" alt=""/></a>
+            <a href="#"><img src="${resource(dir: 'mainsite/images', file: 'pinterest_icon.png')}" alt=""/></a>
+        </div>
+
+        <div class="team-content top-50">
+            <span class="spanish">Publicista apasionado por el mercadeo, las marcas, la tecnología y el fútbol, con más de 6 años de experiencia en agencias de publicidad, y casi el mismo tiempo en emprendimientos digitales. Fue co-fundador de GolTotal.com y ha colaborado en el diseño y desarrollo de algunas Apps y sitios web para diferentes empresas.</span><span
+                class="english"></span>
+        </div>
+    </div>
+</div>
+
+<div class="one_third top-70">
+</div>
+
+<div class="one_third last top-70">
+</div>
+
+<div class="clear"></div>
+</div>
+%{--<div class="full-width top-50">
+    <div class="book-left left">
+        <div class="right-35 top-50 book-title crete-round-font right">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</div>
+        <div class="right-35 top-20 book-content bottom-50 right clear-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nullam ut libero et libero sagittis interdum et vitae tellus.
+        Nunc dapibus luctus turpis non molestie. Vivamus suscipit
+        tortor vitae magna viverra feugiat. Duis vitae libero.</div>
+    </div>
+    <div class="book-right left">
+        <div class="left-35 top-50 book-title crete-round-font left">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</div>
+        <div class="left-35 top-20 book-content bottom-50 left clear-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nullam ut libero et libero sagittis interdum et vitae tellus.
+        Nunc dapibus luctus turpis non molestie. Vivamus suscipit
+        tortor vitae magna viverra feugiat. Duis vitae libero.</div>
+    </div>
     <div class="clear"></div>
+</div>--}%
+<div class="clear"></div>
 </div>
 
 
@@ -672,60 +854,76 @@
 <!--SKILLS-->
 <div id="skills" class="clear skills section center-text block">
     <h2><span class="spanish">HABILIDADES</span><span class="english">SKILS</span></h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
+    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
+
     <div class="block content-960 center-relative center-text">
-       %{-- <p class="info">
-            Fusce suscipit, orci eget lobortis sodales, velit nunc tristique metus, in tristique odio ante
-            id sem. Etiam in quam et sapien bibendum mollis. Morbi eget velit eros, quis imperdiet
-            arcusere perdan. Nunc lorem justo, pellentesque ac egestas quis.
-        </p>--}%
+        %{-- <p class="info">
+             Fusce suscipit, orci eget lobortis sodales, velit nunc tristique metus, in tristique odio ante
+             id sem. Etiam in quam et sapien bibendum mollis. Morbi eget velit eros, quis imperdiet
+             arcusere perdan. Nunc lorem justo, pellentesque ac egestas quis.
+         </p>--}%
         <div class="separator skills_separator"></div>
         <section class="one_half text-left">
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">HTML5/CSS3</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">PHP</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">JAVA</div>
+
                     <div class="progress_bar_field_perecent width-85"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">GROOVY</div>
+
                     <div class="progress_bar_field_perecent width-85"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">GRAILS</div>
+
                     <div class="progress_bar_field_perecent width-85"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">C#</div>
+
                     <div class="progress_bar_field_perecent width-75"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">AWS</div>
+
                     <div class="progress_bar_field_perecent width-85"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">HEROKU</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
@@ -735,48 +933,63 @@
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">PHOTOSHOP</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">ILLUSTRATOR</div>
+
                     <div class="progress_bar_field_perecent width-75"></div>
                 </div>
             </div>
-        <div class="progress_bar">
-            <div class="progress_bar_field_holder">
-                <div class="progress_bar_title">COREL</div>
-                <div class="progress_bar_field_perecent width-100"></div>
+
+            <div class="progress_bar">
+                <div class="progress_bar_field_holder">
+                    <div class="progress_bar_title">COREL</div>
+
+                    <div class="progress_bar_field_perecent width-100"></div>
+                </div>
             </div>
-        </div>
-        <div class="progress_bar">
-            <div class="progress_bar_field_holder">
-                <div class="progress_bar_title">ENTREPRENEURSHIP</div>
-                <div class="progress_bar_field_perecent width-100"></div>
+
+            <div class="progress_bar">
+                <div class="progress_bar_field_holder">
+                    <div class="progress_bar_title">ENTREPRENEURSHIP</div>
+
+                    <div class="progress_bar_field_perecent width-100"></div>
+                </div>
             </div>
-        </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">SOCIAL MEDIA</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">ONLINE MARKETING</div>
+
                     <div class="progress_bar_field_perecent width-100"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">RFID / NFC</div>
+
                     <div class="progress_bar_field_perecent width-85"></div>
                 </div>
             </div>
+
             <div class="progress_bar">
                 <div class="progress_bar_field_holder">
                     <div class="progress_bar_title">ARDUINO</div>
+
                     <div class="progress_bar_field_perecent width-75"></div>
                 </div>
             </div>
@@ -789,25 +1002,28 @@
 <!--Contact-->
 <div id="contact" class="clear contact section center-text block">
     <h2><span class="spanish">CONTACTO</span><span class="english">CONTACT</span></h2>
-    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators',file: 'separator_x.png')}" alt="____" />
+    <img class="separator_x" src="${resource(dir: 'mainsite/images/separators', file: 'separator_x.png')}" alt="____"/>
+
     <div class="block content-960 center-relative center-text">
         <p class="info">
             <span class="spanish">Estamos preparados para asumir cualquier reto.
-            Comunícate con nosotros y permítenos imaginar, crear y desarrollar una solución fácil, divertida y funcional para tu necesidad.</span><span class="english">We are ready to take on any challenge.
-        Contact us and let us imagine, create and develop an easy, fun and functional solution to your needs.</span>
+            Comunícate con nosotros y permítenos imaginar, crear y desarrollar una solución fácil, divertida y funcional para tu necesidad.</span><span
+                class="english">We are ready to take on any challenge.
+            Contact us and let us imagine, create and develop an easy, fun and functional solution to your needs.</span>
         </p>
+
         <div class="separator contact_separator"></div>
         <section class="one_half">
             <div class="contact-form">
                 <ul id="contact-form">
                     <li class="name-holder">
-                        <input type="text" id="name" />
+                        <input type="text" id="name"/>
                     </li>
                     <li class="email-holder">
-                        <input type="text" id="contact-email" />
+                        <input type="text" id="contact-email"/>
                     </li>
                     <li class="website-holder">
-                        <input type="text" id="website" />
+                        <input type="text" id="website"/>
                     </li>
                     <li class="message-holder">
                         <textarea rows="7" cols="50" id="message"></textarea>
@@ -816,69 +1032,81 @@
                         <a class="button black" onClick="SendMail()" id="send-message">SUBMIT</a>
                     </li>
                 </ul>
+
                 <div class="clear"></div>
             </div>
+
             <div class="clear"></div>
+
             <div class="sending-message-status-holder"><span id="sending-message-status">&nbsp;</span></div>
         </section>
         <section class="one_half last text-left">
             %{--<p class="contact-section-title crete-round-font bottom-20">Duis vitae libero orci, a molestie semate donec ultricies inta terate dum</p>--}%
             %{--<p class="bottom-20">--}%
-                %{--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut libero et libero sagittis interdum et vitae tellus. Nunc dapibus luctus turpis non molestie. Vivamus suscipit tortor vitae magna viverra feugiat.--}%
+            %{--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut libero et libero sagittis interdum et vitae tellus. Nunc dapibus luctus turpis non molestie. Vivamus suscipit tortor vitae magna viverra feugiat.--}%
             %{--</p>--}%
             <p>
                 Qtag Technologies S.A.S
             </p>
+
             <p>
                 Edificio Nagano Rose Street.
             </p>
+
             <p>
                 Cra 37 #8 - 43
             </p>
+
             <p>
                 Parque Lleras, Poblado, Medellín, Colombia
             </p>
+
             <p class="top-20">
                 Oficina 802 - <a href="http://www.espacio.co" target="_blank">ESPACIO</a>
             </p>
+
             <p>
                 Email: contacto@qtagtech.com
             </p>
+
             <p>
-                Websites: <a href="http://www.qtagtech.com">www.qtagtech.com</a> | <a href="http://www.nest5.com">www.nest5.com</a> | <a href="http://www.nest5.org">LAB5</a>
+                Websites: <a href="http://www.qtagtech.com">www.qtagtech.com</a> | <a
+                    href="http://www.nest5.com">www.nest5.com</a> | <a href="http://www.nest5.org">LAB5</a>
             </p>
         </section>
+
         <div class="clear"></div>
     </div>
+
     <div class="full-width top-50 line-height">
-        <iframe width="1800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;t=m&amp;ll=6.208362,-75.566454&amp;spn=0.004266,0.019312&amp;z=17&amp;output=embed"></iframe>
+        <iframe width="1800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                src="https://maps.google.com/?ie=UTF8&amp;t=m&amp;ll=6.208362,-75.566454&amp;spn=0.004266,0.019312&amp;z=17&amp;output=embed"></iframe>
     </div>
 </div>
 
 <script>
-    $(document).ready(function(){
-        $('body').on('click','.reveal-btn',function(e){
+    $(document).ready(function () {
+        $('body').on('click', '.reveal-btn', function (e) {
             e.preventDefault();
             var id = $(this).attr('id');
             var sep = id.split("_");
-            var block = $("#"+sep[0]);
-            if(block.hasClass('english'))
+            var block = $("#" + sep[0]);
+            if (block.hasClass('english'))
                 $(this).html("Close");
             else
                 $(this).html("English");
             block.toggleClass('english');
         });
     });
-    $(document).keypress(function(e) {
-        if(e.which == 49) {
+    $(document).keypress(function (e) {
+        if (e.which == 49) {
             $(".english-showing").addClass('english');
             $(".english").removeClass('english-showing');
             $(".spanish").show(100);
 
 
-
         }
-        if(e.which == 50) {
+        if (e.which == 50) {
             $(".english").addClass('english-showing');
             $(".english").removeClass('english');
             $(".spanish").hide(100);
